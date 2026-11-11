@@ -1,0 +1,24 @@
+
+# Arduino build files
+*.o
+*.elf
+*.hex
+*.tmp
+*.bak
+
+# Arduino IDE
+*.ino.cpp
+*.ino.eep
+*.ino.with_bootloader.bin
+
+# IDE settings
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Private credentials
+secrets.h
