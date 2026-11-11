@@ -1,3 +1,10 @@
+![Platform](https://img.shields.io/badge/Platform-ESP8266-blue)
+![Language](https://img.shields.io/badge/Language-C%2B%2B-orange)
+![IoT](https://img.shields.io/badge/Technology-IoT-green)
+![Cloud](https://img.shields.io/badge/Cloud-ThingSpeak-blueviolet)
+![Status](https://img.shields.io/badge/Status-Completed-success)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+
 # IoT-Based Environmental & Safety Monitoring System using ESP8266
 
 An IoT-based embedded system designed to monitor environmental parameters and detect potential safety hazards using ESP8266, multiple sensors, and the ThingSpeak cloud platform.
