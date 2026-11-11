@@ -101,6 +101,11 @@ The system transmits four parameters to ThingSpeak.
 The cloud dashboard provides graphical visualization of the collected sensor data.
 
 ## Repository Structure
+![Circuit Diagram](circuit/circuit_diagram.png)
+
+![Hardware Setup](images/hardware_setup.jpeg)
+
+![ThingSpeak Dashboard](images/thingspeak_dashboard.png)
 
 ```text
 IoT-Environmental-Safety-Monitoring-ESP8266/
